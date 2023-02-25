@@ -1,4 +1,8 @@
+
 # twitterBot
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+
 This is a simple Twitter bot built with Node.js and Twit that responds to tweets from a specific user with random messages.
 ## Features
 The bot has the following features:
