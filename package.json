@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "twit": "^2.2.11"
+  },
+  "devDependencies": {
+    "@types/node": "^18.14.1",
+    "@types/twit": "^2.2.31"
+  }
+}
